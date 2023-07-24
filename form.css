@@ -1,13 +1,13 @@
 body
 {
-    background-color: rgb(30, 17, 107);
+    background-color: rgb(94, 179, 215);
 }
 
 .h-text
 {
     text-align: center;
     text-decoration: underline;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:serif
 }
 .parent
 {   
@@ -17,17 +17,12 @@ body
 }
 .child
 {
-    width: 500px;
-    height: 700px;
-    background-color: antiquewhite;
+    width: 650px;
+    height: 850px;
+    background-color: rgb(188, 100, 118);
     /* margin: right; */
     text-align: center;
     padding: 50px;
-}
-.name1
-{
-    text-align: center;
-    height: 30px;
 }
 
 .btn
@@ -37,3 +32,62 @@ body
     width: 100px;
     height: 10opx;
 }
+.name1{
+    text-decoration: double;
+}
+.name2
+{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+    background-color: darkslategrey; 
+}
+.name-2
+{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black; 
+    background-color: darkslategrey; 
+
+}
+.email-1
+{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+    background-color: darkslategrey; 
+
+}
+.phone-1
+{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid;
+    border-color: rgb(20, 21, 21);
+    background-color: darkslategrey; 
+
+}
+.city-1
+{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+    background-color: darkslategrey;
+
+}
+.add-1
+{ padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+    background-color: darkslategrey; 
+}
+.msg-1
+{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+    background-color: darkslategrey; 
+}
+
+
+
