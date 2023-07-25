@@ -1,6 +1,7 @@
 body
 {
     background-color: rgb(94, 179, 215);
+    border: 4px red solid;
 }
 
 .h-text
@@ -88,6 +89,35 @@ body
     border: 2px solid black;
     background-color: darkslategrey; 
 }
+.name1{
+    margin-right:90px ;
+}
+.name21
+{
+    margin-right: 90px;
+}
+.name31
+{
+    margin-right: 130px;
 
+}
+.name41
+{
+    margin-right: 60px;
 
+}
+.name51
+{
+    margin-right: 150px;
 
+}
+.name61
+{
+    margin-right: 110px;
+
+}
+.name71
+{
+    margin-right: 420px;
+
+}
